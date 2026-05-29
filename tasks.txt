@@ -1,0 +1,3 @@
+goto school
+read your books
+goto bed
